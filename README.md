@@ -1,2 +1,2 @@
 # hello_world
-this is my first program
+this is me editing the readme file to my first program.
